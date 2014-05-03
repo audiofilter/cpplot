@@ -22,10 +22,6 @@ Author: Yuichi Katori (yuichi.katori@gmail.com)
 Getting Started
 ------------------------------------------
 
-To install a required library on ubuntu
-
-$ sudo apt-get install freeglut3-dev
-
 To compile cpplot,
 
 $ cd build

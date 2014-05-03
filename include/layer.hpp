@@ -44,7 +44,7 @@ namespace cpplot {
         private:
             axes_t ca, selected_axes; ///< Pointers to current (in program) and selected (by user) axes
             bool visible; ///< Decides if the layer is drawn or not
-            float xButtonDown, yButtonDown; /// Last clicked mouse position
+	  //            float xButtonDown, yButtonDown; /// Last clicked mouse position
 
         public:
             boost::timer time_clicked; ///< Time that the layer was last clicked. Used to detect double click

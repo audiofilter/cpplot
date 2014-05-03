@@ -1,4 +1,12 @@
 cpplot; Simple plotting in C++
+Copyright Tony Kirke + others below
+
+Taken from Cpplot + MATPLOT++
+This version has MATPLOT++ sources included already
+Also it is modified to compile on Mac OSX 10.9
+
+--------------------------------------------------------
+
 Copyright Jonatan Olofsson, 2011-2012
 License: GPLv3+
 Author: Jonatan Olofsson (jonatan.olofsson@gmail.com)

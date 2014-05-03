@@ -29,7 +29,7 @@ Version:0.3.13
 
 #ifndef _CPPLOT_GLUT_HPP_
 #define _CPPLOT_GLUT_HPP_
-#include <GL/glut.h>
+#include <glut.h>
 #include "types.hpp"
 namespace cpplot {
     namespace glut {

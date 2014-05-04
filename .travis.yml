@@ -6,6 +6,7 @@ compiler:
   - clang
 before_install:
   - brew update
+install:
   - brew install boost
 # Change this to your needs
 before_script:

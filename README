@@ -1,5 +1,5 @@
 ### Status
-[![Build Status](https://travis-ci.org/audiofilter/cpplot.png)](https://travis-ci.org/audiofilter/cpplot)
+[![Build Status][https://travis-ci.org/audiofilter/cpplot.png]][https://travis-ci.org/audiofilter/cpplot]
 
 cpplot; Simple plotting in C++
 Copyright Tony Kirke + others below

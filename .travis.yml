@@ -1,7 +1,7 @@
 os:
   - osx
 language: 
-  - cpp
+  - objective-c
 compiler:
   - clang
 before_install:

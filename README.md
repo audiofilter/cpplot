@@ -1,4 +1,4 @@
-### Status
+### Status (Mac Clang)
 [![Build Status](https://travis-ci.org/audiofilter/cpplot.png)](https://travis-ci.org/audiofilter/cpplot)
 
 cpplot; Simple plotting in C++

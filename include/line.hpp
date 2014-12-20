@@ -69,6 +69,7 @@ namespace cpplot {
              * The constructor accepts as single argument a shared pointer to the axes to which the object belongs
              */
             Line(const axes_t a);
+			virtual ~Line() { ; }
             figure_t gcf(); ///< Get the figure to which the line belongs
 
             void draw(); ///< Draw the line on the line's axes. Used internally only.

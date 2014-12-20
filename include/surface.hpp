@@ -64,7 +64,7 @@ namespace cpplot {
                     NContour(10),
                     type(_2D)
                 {}
-
+			virtual ~Surface() { ; }
             void clear(); ///< Clear all data
 
             /**

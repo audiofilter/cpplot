@@ -56,6 +56,7 @@ namespace cpplot {
                     LineStyle("-"),
                     LineWidth(1)
                 {}
+			virtual ~Patch() { ; }
 
             void clear(); ///< Clear all data
 

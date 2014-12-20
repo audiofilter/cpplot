@@ -52,6 +52,7 @@ namespace cpplot {
             Text(const axes_t a)
                 :   drawing_t_t(a)
                 {}
+			virtual ~Text() { ; }
             text_t text(double x, double y, const std::string s);
             void clear(); ///< Clear all data
             void config(){} ///< Configure the axes in which the text is printed

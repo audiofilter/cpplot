@@ -53,6 +53,6 @@ install(FILES ${PC_FILE} DESTINATION ${LIB_INSTALL_DIR}/pkgconfig)
 ###
 ### Examples
 ###
-#if(CPPLOT_BUILD_EXAMPLES)
+if(CPPLOT_BUILD_EXAMPLES)
     add_subdirectory(examples)
-#endif()
+endif()
